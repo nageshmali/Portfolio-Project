@@ -12,6 +12,9 @@
     --bgOrange:#e84949;
 }
 
+.msg{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 /* wrapper */
 #wrapper{
     height: 100vh;
